@@ -70,6 +70,10 @@ Add new medicines, delete existing ones, or update details such as quantity, pri
 
 Save the current state of the medicine data to a file.
 
+## Screenshot
+
+![Pharmacy Management System Screenshot](path/to/your/screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any changes you would like to make.
