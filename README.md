@@ -72,7 +72,7 @@ Save the current state of the medicine data to a file.
 
 ## Screenshot
 
-![Pharmacy Management System Screenshot](path/to/your/screenshot.png)
+![Pharmacy Management System Screenshot](screenshots\Purchase Medicine.png)
 
 ## Contributing
 
