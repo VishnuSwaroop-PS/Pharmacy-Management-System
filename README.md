@@ -72,7 +72,7 @@ Save the current state of the medicine data to a file.
 
 ## Screenshot
 
-![Pharmacy Management System Screenshot](screenshots\Purchase_Medicine.png)
+![Pharmacy Management System Screenshot](https://github.com/VishnuSwaroop-PS/Pharmacy-Management-System/blob/main/screenshots/Purchase_Medicine.png)
 
 ## Contributing
 
